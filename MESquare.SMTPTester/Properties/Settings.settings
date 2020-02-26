@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MESquare.SMTPTester.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SMTPConfigsURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://marioencarnacao.com/projects/smtptester/smtpconfigs.json</Value>
+    </Setting>
+    <Setting Name="SMTPConfigsPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
